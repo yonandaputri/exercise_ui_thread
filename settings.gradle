@@ -1,0 +1,2 @@
+rootProject.name='exercise_ui_thread'
+include ':app'
